@@ -24,7 +24,7 @@
 ### 🔥 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,ts,react,tailwind,threejs,supabase,prisma,vercel" />
+  <img src="https://skillicons.dev/icons?i=nextjs,ts,react,tailwind,threejs,supabase,prisma,vercel,python" />
   <img src="gsap.png" alt="GSAP Logo" width="60" height="60" />
 </p>
 
