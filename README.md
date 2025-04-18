@@ -25,8 +25,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,ts,react,tailwind,threejs,supabase,prisma,vercel" />
-  <img src="https://w7.pngwing.com/pngs/94/51/png-transparent-gsap-greensock-hd-logo-thumbnail.png" alt="GSAP Logo" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/mashable-dev/mash-assets/main/gsap-flat.svg" width="40" height="40" />
+  <img src="gsap.png" alt="GSAP Logo" width="60" height="60" />
 </p>
 
 
