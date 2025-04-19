@@ -49,8 +49,6 @@ Here’s what defines my path:
 ---
 
 ### 🧠 Past Experience
-
-- Completed **A Level Computer Science**
 - Studied **DSA in Python** – Stack, Queue, Trees, Linked List, Sorts & Searches
 - Mastered **flowcharts, pseudocode, logic gates, and truth tables**
 
