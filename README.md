@@ -1,55 +1,62 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Mash;Creative+Developer;3D+Web+Sorcerer;AI+Explorer+%7C+DSA+Python+Ninja" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=0FFFC2&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Hey+I'm+Mash+%7C+Creative+Dev+%26+Agentic+AI+Builder;I+Craft+Immersive+3D+Web+Experiences+with+Code;Pursuing+Agentic+AI+with+Beautiful+UX+and+Engineering+Precision" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif" width="180" />
+  <img src="https://media.giphy.com/media/IeiPkfVYF0eTxyZIgY/giphy.gif" width="220" alt="Goku Ultra Instinct" />
 </p>
 
 ---
 
-## ⚡ About Me
+### 🔥 About Me
 
-> “Train insane or remain the same.” – That’s me, but for coding.
+> "I don't just build websites — I craft interactive experiences that *breathe*."
 
-I’m a creative developer who fuses:
-- **Hardcore CS fundamentals** (DSA in Python, complexity analysis)
-- **Immersive web design** (Next.js, Three.js, GSAP)
-- **AI vision** (LangChain, LLMs, AI agents)
+I'm a 19 y/o creative full-stack developer, merging **powerful backends** with **visual storytelling** using code.  
+Here’s what defines my path:
 
-I've built binary trees, stacks, queues, and now I’m building 3D stores, AI tools, and scroll-based animation magic.
+- **Pursuing Agentic AI development** – LLMs, LangChain, Vapi, Gemini
+- **Creating ultra-smooth immersive sites** – GSAP, React Three Fiber, animations like Awwwards-level
+- **Solid CS fundamentals** – DSA in Python, time-space complexity, tree structures, logic circuits
+- **Driven by a vision** – Build tools and experiences that *feel alive*
 
 ---
 
-## 🧠 Tech Stack
+### ⚙️ Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,nextjs,react,tailwind,threejs,figma,prisma,appwrite,supabase" />
-  <img src="https://user-images.githubusercontent.com/122957045/233823205-810b26a3-d472-4ec2-8f3f-4e95f5643145.png" width="48" title="GSAP"/>
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,threejs,figma,prisma,python,appwrite,supabase" />
+  <img src="https://raw.githubusercontent.com/mash-ustad/assets/main/gsap-icon.svg" width="42" title="GSAP" />
 </p>
 
 ---
 
-## 🔥 Projects I’m Building
+### 🚀 Projects & Creative Builds
 
-- **Roamly** – an AI trip planner with stunning UI/UX  
-- **ARC** – a 3D full-stack store powered by Stripe, CMS, and smooth GSAP scroll
-- **Agentic AI Developer Tools** – building my own Jarvis
+- **Roamly** – AI Trip Planner w/ slick interface & live data
+- **ARC** – Full-stack 3D ecommerce app with Stripe, Sanity, Admin Dashboard
+- **NextGen Agent** – Interview AI agent powered by Vapi & Gemini
+- **Dynamic Blog** – Sanity CMS + Next.js with scroll-based motion
 
 ---
 
-## 📊 Stats? Nah, let the builds talk.
+### ⚡ GitHub Stats? Nah, this is my vibe:
 
-Instead of boring stat blocks:
 <p align="center">
-  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="180" />
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200" />
 </p>
 
 ---
 
-## ☄️ Let's Connect
+### 🧠 Past Experience
 
-DM me, collab, or just say hi.
+- Completed **A Level Computer Science**
+- Studied **DSA in Python** – Stack, Queue, Trees, Linked List, Sorts & Searches
+- Mastered **flowcharts, pseudocode, logic gates, and truth tables**
+
+---
+
+### 🌍 Let's Connect
 
 <p align="center">
   <a href="https://github.com/your-username">
