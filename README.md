@@ -1,89 +1,61 @@
-<h1 align="center">Hey, I'm Mashhood 🚀</h1>
-<p align="center">
-  <img src="https://images.gamebanana.com/img/ico/sprays/_1502-.gif" width="280" alt="Goku Powering Up" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Mash;Creative+Developer;3D+Web+Sorcerer;AI+Explorer+%7C+DSA+Python+Ninja" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <strong>Creative Developer • Full-Stack Innovator • 3D Web Magician</strong><br />
-  Building immersive, animated, and AI-powered experiences that make you say "woah." 💥
+  <img src="https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif" width="180" />
 </p>
 
 ---
 
-### 🧠 About Me
+## ⚡ About Me
 
+> “Train insane or remain the same.” – That’s me, but for coding.
 
+I’m a creative developer who fuses:
+- **Hardcore CS fundamentals** (DSA in Python, complexity analysis)
+- **Immersive web design** (Next.js, Three.js, GSAP)
+- **AI vision** (LangChain, LLMs, AI agents)
 
-- 🔭 Currently learning to create **insane 3D websites** with React Three Fiber + GSAP
-- 🧪 Mixing **AI + Web** to build tools from the future
-- ✨ Goal: Become the **top 1% creative dev** on the web
-- 🎯 Focused on mastering: `Shaders`, `Supabase`, `LangChain`, `Agentic AI`
+I've built binary trees, stacks, queues, and now I’m building 3D stores, AI tools, and scroll-based animation magic.
 
 ---
 
-### 🔥 Tech Stack
+## 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,ts,react,tailwind,threejs,supabase,prisma,vercel,python" />
-  <img src="gsap.png" alt="GSAP Logo" width="60" height="60" />
+  <img src="https://skillicons.dev/icons?i=python,ts,nextjs,react,tailwind,threejs,figma,prisma,appwrite,supabase" />
+  <img src="https://user-images.githubusercontent.com/122957045/233823205-810b26a3-d472-4ec2-8f3f-4e95f5643145.png" width="48" title="GSAP"/>
 </p>
 
+---
 
+## 🔥 Projects I’m Building
 
-
+- **Roamly** – an AI trip planner with stunning UI/UX  
+- **ARC** – a 3D full-stack store powered by Stripe, CMS, and smooth GSAP scroll
+- **Agentic AI Developer Tools** – building my own Jarvis
 
 ---
 
-### 🚀 Projects That Hit Different
+## 📊 Stats? Nah, let the builds talk.
 
-| Project | What It Does | Tech |
-|--------|--------------|------|
-| 🛒 **ARC** | Sleek eCommerce site with live tracking | Next.js + Stripe + Sanity |
-| 🎙️ **AI Job Agent** | Gemini + Vapi voice interview app | Vapi API + Gemini + Supabase + Supabase Auth |
+Instead of boring stat blocks:
+<p align="center">
+  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="180" />
+</p>
 
 ---
 
-### 📈 GitHub Flex
+## ☄️ Let's Connect
+
+DM me, collab, or just say hi.
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=88FF00&center=true&vCenter=true&width=435&lines=Creative+Fullstack+Dev+%F0%9F%92%BB;3D+Web+Artist+%F0%9F%A7%A1;GSAP+%2B+Three.js+Animations+%E2%9C%A8;Pixel-Perfect+Frontend+%2B+Solid+Backend;Let's+Build+Something+Insane!+%F0%9F%9A%80" alt="Typing SVG" />
+  <a href="https://github.com/your-username">
+    <img src="https://img.shields.io/badge/GitHub-Mash-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/email-mash@example.com-blue?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
-
-<p align="center">
-<img src="https://miro.medium.com/v2/resize:fit:440/format:webp/1*34xEodIKs2f9yyGICYX9Mw.gif" width="240" />
-</p>
-
-
-
----
-
-### 🤝 Let’s Collaborate
-
-<p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" />
-</p>
-
-- Got a crazy idea? Let’s build it.
-- Need a creative dev for your startup? I’m your guy.
-- Love cool animations? Let's animate the internet together.
-
-📬 Reach me: [Twitter](https://twitter.com/yourhandle) | [LinkedIn](https://linkedin.com/in/yourhandle)
-
----
-
-### 🧢 Fun Fact
-
-> "I don’t just write code...  
-> I create **experiences** that move with meaning."
-
----
-
-### 🧠 Currently Learning
-
-```ts
-const learning = [
-  'LangChain', 
-  'Three.js Shaders',
-  'Agentic AI',
-  'Supabase Magic',
-]
