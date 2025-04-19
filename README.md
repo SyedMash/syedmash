@@ -12,11 +12,11 @@
 
 > "I don't just build websites — I craft interactive experiences that *breathe*."
 
-I'm a 19 y/o creative full-stack developer, merging **powerful backends** with **visual storytelling** using code.  
+I'm a 20 y/o creative full-stack developer, merging **powerful backends** with **visual storytelling** using code.  
 Here’s what defines my path:
 
-- **Pursuing Agentic AI development** – LLMs, LangChain, Vapi, Gemini
-- **Creating ultra-smooth immersive sites** – GSAP, React Three Fiber, animations like Awwwards-level
+- **Pursuing Agentic AI development**
+- **Creating ultra-smooth immersive sites** – GSAP, React Three Fiber, animations
 - **Solid CS fundamentals** – DSA in Python, time-space complexity, tree structures, logic circuits
 - **Driven by a vision** – Build tools and experiences that *feel alive*
 
@@ -34,7 +34,7 @@ Here’s what defines my path:
 ### 🚀 Projects & Creative Builds
 
 - **Roamly** – AI Trip Planner w/ slick interface & live data
-- **ARC** – Full-stack 3D ecommerce app with Stripe, Sanity, Admin Dashboard
+- **ARC** – Full-stack ecommerce app with Stripe, Sanity, Admin Dashboard
 - **NextGen Agent** – Interview AI agent powered by Vapi & Gemini
 - **Dynamic Blog** – Sanity CMS + Next.js with scroll-based motion
 
