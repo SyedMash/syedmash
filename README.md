@@ -1,66 +1,29 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=0FFFC2&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Hey+I'm+Mash+%7C+Creative+Dev+%26+Agentic+AI+Builder;I+Craft+Immersive+3D+Web+Experiences+with+Code;Pursuing+Agentic+AI+with+Beautiful+UX+and+Engineering+Precision" alt="Typing SVG" />
-</h1>
+<h1 align="center">Hi, I'm a Creative Full-Stack Developer 🚀</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/IeiPkfVYF0eTxyZIgY/giphy.gif" width="220" alt="Goku Ultra Instinct" />
+  Blending code, design, and intelligence to build immersive web experiences.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
+  <img src="https://img.shields.io/badge/Three.js-000?style=for-the-badge&logo=three.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agentic_AI-5A29E4?style=for-the-badge&logo=OpenAI&logoColor=white" />
 </p>
 
 ---
 
-### 🔥 About Me
+## 🧠 About Me
 
-> "I don't just build websites — I craft interactive experiences that *breathe*."
-
-I'm a 20 y/o creative full-stack developer, merging **powerful backends** with **visual storytelling** using code.  
-Here’s what defines my path:
-
-- **Pursuing Agentic AI development**
-- **Creating ultra-smooth immersive sites** – GSAP, React Three Fiber, animations
-- **Solid CS fundamentals** – DSA in Python, time-space complexity, tree structures, logic circuits
-- **Driven by a vision** – Build tools and experiences that *feel alive*
-
----
-
-### ⚙️ Tech Arsenal
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,threejs,figma,prisma,python,appwrite,supabase" />
-  <img src="https://raw.githubusercontent.com/mash-ustad/assets/main/gsap-icon.svg" width="42" title="GSAP" />
-</p>
-
----
-
-### 🚀 Projects & Creative Builds
-
-- **Roamly** – AI Trip Planner w/ slick interface & live data
-- **ARC** – Full-stack ecommerce app with Stripe, Sanity, Admin Dashboard
-- **NextGen Agent** – Interview AI agent powered by Vapi & Gemini
-- **Dynamic Blog** – Sanity CMS + Next.js with scroll-based motion
-
----
-
-### ⚡ GitHub Stats? Nah, this is my vibe:
-
-<p align="center">
-  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200" />
-</p>
-
----
-
-### 🧠 Past Experience
-- Studied **DSA in Python** – Stack, Queue, Trees, Linked List, Sorts & Searches
-- Mastered **flowcharts, pseudocode, logic gates, and truth tables**
-
----
-
-### 🌍 Let's Connect
-
-<p align="center">
-  <a href="https://github.com/your-username">
-    <img src="https://img.shields.io/badge/GitHub-Mash-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/email-mash@example.com-blue?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
+```ts
+const Developer = {
+  role: "Creative Full-Stack Developer",
+  stack: ["Next.js", "TypeScript", "React", "GSAP", "Three.js", "Python"],
+  learning: ["Agentic AI", "LangChain", "LLMs"],
+  focus: "Building 3D websites, AI-powered tools, and smooth user experiences",
+  portfolio: "https://syedmash.vercel.app/",
+  email: "mashrtx7@gmail.com"
+};
